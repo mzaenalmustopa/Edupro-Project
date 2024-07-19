@@ -1,0 +1,8 @@
+/target/
+/mvnw
+/.idea/
+#/src/main/resources/application.yaml
+/.project
+/.classpath
+/.factorypath
+/src/main/resources/application-test.properties
